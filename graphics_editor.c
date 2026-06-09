@@ -292,3 +292,4 @@ int main() {
     mainMenu();
     return 0;
 }
+// Day 2: Implemented shape drawing functions
