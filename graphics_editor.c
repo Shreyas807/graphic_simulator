@@ -293,3 +293,4 @@ int main() {
     return 0;
 }
 // Day 2: Implemented shape drawing functions
+// Day 3: Implemented menu and object management
