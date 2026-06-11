@@ -1,0 +1,47 @@
+PROMPT 1
+
+Create a repository in GitHub. Submit the link to the GitHub repository in Moodle. Daily push to GitHub is mandatory. Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas.
+
+RESPONSE
+
+Guidance was provided to create a GitHub repository, set up the project structure, and implement a menu-driven 2D Graphics Editor in C.
+
+---
+
+PROMPT 2
+
+Explain the project step by step.
+
+RESPONSE
+
+Detailed instructions were provided for canvas creation, menu creation, drawing shapes, testing the program, and GitHub commits.
+
+---
+
+PROMPT 3
+
+How do I install GCC and run the project in VS Code?
+
+RESPONSE
+
+Instructions were provided for installing GCC, configuring VS Code, compiling the code, and running the project.
+
+---
+
+PROMPT 4
+
+How do I connect GitHub and VS Code?
+
+RESPONSE
+
+Instructions were provided for cloning the repository, committing changes, and pushing updates to GitHub.
+
+---
+
+PROMPT 5
+
+How do I change the Git author name to my own account?
+
+RESPONSE
+
+Instructions were provided for configuring Git username and email and updating commit information.
